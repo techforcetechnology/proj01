@@ -1,1 +1,3 @@
-this is file 
+#!/bin/bash
+
+echo "this is test"
